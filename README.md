@@ -4,7 +4,7 @@ Script to disable backup functions based on resource usage
 **Limits**
 
 - Resource usage above 100,000 inodes or 20GBs disables automatic cpremote backups. 
-- Resource usage above 100,000 inodes or 20GBs disables the backup functionality from a users cPanel account. 
+- Resource usage above 100,000 inodes or 10GBs disables the backup functionality from a users cPanel account. 
 
 **Installation**
 
